@@ -1,2 +1,2 @@
 # MachineLearning
-Machine Learning: Regression and Classification Projects.
+## Regression and Classification python projects.
